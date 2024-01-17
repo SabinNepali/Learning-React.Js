@@ -1,8 +1,11 @@
+import Chai from './Chai'
 
-function App() {
+function Sabin() {
   return (
-    <h1>Hello React | Sabin</h1>
+    <>
+    <Chai/>
+    </>
   );
 }
 
-export default App;
+export default Sabin;
